@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+    <color name="lightBlue">#00AAD4</color>
+    <color name="locateColorRed">#ff5555</color>
+    <color name="goldYellow">#ffd15c</color>
+    <color name="deepBlue">#0088ab</color>
+
+    <color name="lightcoral">#F08080</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="crimson">#DC143C</color>
+    <color name="deepRed">#cc0000</color>
+    <color name="deepBlue1">#006a84</color>
+
+    <color name="brightyellow">#FFC107</color>
+    <color name="goldy">#FFA000</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkGreen">#00a18b</color>
+    <color name="lightGreen">#81d1bb</color>
+    <color name="darkblue">#23283a</color>
+    <color name="black">#2e2d2d</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+
+</resources>
